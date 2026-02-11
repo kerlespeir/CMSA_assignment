@@ -20,10 +20,8 @@ Transitions between static activity (Bump) and moving activity (Wave) are contro
 
 ### 3.2 Phase transition
 When the connection parameters of the model are changed, the order parameter undergoes a phase transition.
-Order parameter can be defined as :
-$$
-\Phi=\frac{\left\lvert \sum {\overrightarrow{v_i} }\right\rvert}{\sum {\overrightarrow{\left\lvert  v_i \right\rvert} }}
-$$
+Order parameter can be defined as:
+$$\Phi=\frac{\left\lvert \sum {\overrightarrow{v_i} }\right\rvert}{\sum {\overrightarrow{\left\lvert  v_i \right\rvert} }}$$
 
 ![png](Phase_trans.png)
 
