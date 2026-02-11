@@ -16,12 +16,12 @@ This project implements a **CMSA (Computing by modulating spontaneous cortical a
 ### 3.1 Pattern Transition
 Transitions between static activity (Bump) and moving activity (Wave) are controlled by synaptic weights.
 
-> **[Insert: Bump vs Wave Heatmap Here]**
+![BumpandWave.png]
 
-### 3.2 Stimulus Response
-Evolution of the excitatory population's membrane potential under external input.
+### 3.2 Phase transition
+When the connection parameters of the model are changed, the order parameter undergoes a phase transition.
 
-> **[Insert: Membrane Potential Evolution Plot Here]**
+![Phase_trans.png]
 
 ## 4. How to Run
 1. Install dependencies: `pip install torch matplotlib numpy`.
