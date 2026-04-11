@@ -23,7 +23,7 @@ When the connection parameters of the model are changed, the order parameter und
 Order parameter can be defined as:
 $$\Phi=\frac{\left\lvert \sum {\overrightarrow{v_i} }\right\rvert}{\sum {\overrightarrow{\left\lvert  v_i \right\rvert} }}$$
 
-![png](Phase_trans.png)
+![png](phi_vs_we_plot.png)
 
 ## 4. How to Run
 1. Install dependencies: `pip install torch matplotlib numpy`.
